@@ -1,0 +1,282 @@
+body{
+	width: 1219px;
+	margin:0;
+}
+.HeaderFixed{
+	position: fixed;
+}
+header{
+	position: relative;
+	background-color: #007765;
+	height: 84px;
+	width: 1219px;
+	left: 0px;
+	top: 0px;
+}
+.logo{
+	position: absolute;
+	width: 184px;
+	height: 45px;
+	left: 55px;
+	top: 20px;
+	
+}
+.nav p a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.nav{
+	display: inline-block;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	color: #FFFFFF
+}
+
+.nav .nav1{
+	position: absolute;
+	width: 129px;
+	height: 29px;
+	left: 741px;
+	top: 29px;
+}
+.nav .nav1_1{
+	position: absolute;
+	width: 7px;
+	height: 29px;
+	left: 878px;
+	top: 28px;
+}
+
+.nav .nav2{
+
+	position: absolute;
+	width: 154px;
+	height: 29px;
+	left: 893.04px;
+	top: 28.8px;
+}
+.nav .nav1_2{
+	position: absolute;
+	width: 7px;
+	height: 29px;
+	left: 1055px;
+	top: 29px;
+}
+.nav .nav3{
+	position: absolute;
+	width: 95px;
+	height: 29px;
+	left: 1070px;
+	top: 29px;
+}
+.PiperNet{
+	background-image:url('image/PiperNet.png');
+	background-size: cover;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width: 1219px;
+	height: 403px;
+	left: 0px;
+	top: 84px;
+	padding: 160px 55px;
+}
+.TextPiperNet{
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 72px;
+	line-height: 84px;
+
+
+}
+.backgroundsection{
+	background-color: #EEEEEE;
+	padding-bottom: 92px;
+	padding-top: 48px;
+	padding-left: 55px;
+	padding-right: 55px;
+}
+h1{
+	color: #007765;
+	text-align: center;
+	
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 64px;
+	line-height: 75px;
+	margin: 0;
+}
+.tabl{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 37px;
+	padding: 0px;
+	color: #000000;
+}
+.minus_margin{
+	margin-bottom: 0;
+}
+.hero {
+	  background-image: url('image/Hero.png');
+	  background-size: cover;
+	  padding: 128px;
+}
+.section1{
+	  margin: 0 auto;
+	  padding: 0 55px;
+}
+.text_box{
+	  font-family: Roboto, sans-serif;
+	  font-style: italic;
+	  font-weight: 500;
+	  font-size: 48px;
+	  line-height: 56px;
+	  text-align: center;
+	  color: #fff;
+}
+.Introducing_PiedPiperCoin{
+	padding-top:48px;
+	padding-left:55;
+	padding-right:55;
+	padding-bottom: 92px;
+}
+.new_h1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 64px;
+	line-height: 75px;
+	text-align: center;
+
+	color: #007765;
+}
+.logo2{
+	float: left;
+	margin: 16px 48px 35px 55px;
+}
+.Introducing_PiedPiperCoin p{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 37px;
+	padding-left: 55px;
+	padding-right: 55px;
+	color: #000000;
+}
+.persons_of_project{
+	background-color: #EEEEEE;
+	padding-top: 48px;
+	padding-bottom: 122px;
+}
+.persons_h1{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 64px;
+	line-height: 75px;
+	margin:0 auto;
+
+	text-align: center;
+
+	color: #007765;
+}
+.incenter1{
+	text-align: center;
+}
+.incenter1 div{
+	display: inline-block;
+}
+.incenter1 p{
+	margin:0;
+}
+.pers1{
+	margin-left:91px;
+	margin-right: 0px;
+}
+.pers2{
+	margin:56px 212px 12px 212px;
+}
+.pers3{
+	margin-left:0px;
+	margin-right:90px;
+}
+.incenter2{
+	text-align: center;
+}
+.incenter2 div{
+	display:inline-block;
+}
+.incenter2 p{
+	margin:0;
+}
+.pers4{
+	margin-left:91px;
+	margin-right: 0px;
+}
+.pers5{
+	margin:82px 212px 12px 212px;
+}
+.pers6{
+	margin-left:0px;
+	margin-right:90px;
+}
+.pers1_4padding{
+	padding-left: 91px;
+}
+.pers1_4padding1{
+	padding-left: 91px;
+}
+
+.pers3_6padding{
+	padding-right: 90px;
+}
+.pers3_6padding1{
+	padding-right: 90px;
+
+}
+.pers1_4padding, .pers2_5, .pers3_6padding{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+	color: #007765;
+}
+
+.pers1_4padding1, .pers2_5_1, .pers3_6padding1{
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
+	color: #000000;
+}
+
+footer{
+	background-color: #333333;
+	padding: 48px 339px 64px 340px;
+
+}
+footer div{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: center;
+	margin:auto;
+	color: #FFFFFF;
+}
